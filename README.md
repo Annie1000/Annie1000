@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annie1000
 - 👀 I’m interested in editing and programming
 - 🌱 I’m currently learning a lot!
-- 💞️ I’m looking to collaborate on GitHub!
+- 💞️ I’m looking to collaborate with friends!
 - 📫 How to reach me - Discord and here I guess...
 
 <!---
